@@ -1,0 +1,22 @@
+{
+  "name": "promise-q",
+  "version": "0.0.1",
+  "description": "Light weight dependency free promise queue library ",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tawfiek/promiseQ.git"
+  },
+  "keywords": [
+    "promise-queue"
+  ],
+  "author": "Tawfiek <tawfiek.108@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tawfiek/promiseQ/issues"
+  },
+  "homepage": "https://github.com/tawfiek/promiseQ#readme"
+}
